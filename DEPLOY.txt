@@ -1,0 +1,12 @@
+🚀 DEPLOYMENT GUIDE
+===================
+
+Looking for how to deploy? Open this file:
+
+👉 HOW_TO_DEPLOY.md
+
+That's the complete step-by-step guide!
+
+Or check these files:
+- QUICK_DEPLOY.md (quick version)
+- DEPLOYMENT_GUIDE.md (detailed version)
