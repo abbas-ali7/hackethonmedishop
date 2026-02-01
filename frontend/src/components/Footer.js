@@ -39,8 +39,8 @@ const Footer = () => {
           {/* Contact */}
           <div>
             <h3 className="font-bold text-lg mb-4 text-green-400">Contact</h3>
-            <p className="text-gray-400 text-sm mb-2">Email: support@medishop.com</p>
-            <p className="text-gray-400 text-sm mb-4">Phone: +1-800-MEDICINE</p>
+            <p className="text-gray-400 text-sm mb-2">Email: abasalisshaikh@gmail.com</p>
+            <p className="text-gray-400 text-sm mb-4">Phone: +91-901800-MEDICINE</p>
             <div className="flex gap-3">
               <a href="#" className="bg-green-600 p-2 rounded hover:bg-green-700 transition">f</a>
               <a href="#" className="bg-green-600 p-2 rounded hover:bg-green-700 transition">t</a>
