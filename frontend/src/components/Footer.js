@@ -49,23 +49,24 @@ const Footer = () => {
           </div>
         </div>
 
+        {/* Features */}
         <div className="border-t border-gray-800 pt-8 grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
           <div className="flex items-center gap-3">
-            
+            <Award className="text-green-400" size={24} />
             <div>
               <p className="font-semibold">Licensed & Certified</p>
               <p className="text-gray-400 text-sm">ISO certified pharmacy</p>
             </div>
           </div>
           <div className="flex items-center gap-3">
-            
+            <TrendingUp className="text-green-400" size={24} />
             <div>
               <p className="font-semibold">Fast Delivery</p>
               <p className="text-gray-400 text-sm">24-48 hours delivery</p>
             </div>
           </div>
           <div className="flex items-center gap-3">
-            
+            <Heart className="text-green-400" size={24} />
             <div>
               <p className="font-semibold">100% Safe</p>
               <p className="text-gray-400 text-sm">Secure transactions</p>
@@ -73,6 +74,7 @@ const Footer = () => {
           </div>
         </div>
 
+        {/* Footer copyright */}
         <div className="border-t border-gray-800 pt-6 text-center text-gray-400 text-sm">
           <p>© 2024 MediShop. All rights reserved – Abbasali Shaikh</p>
         </div>
